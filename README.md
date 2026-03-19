@@ -5,7 +5,7 @@
 
 (how to use step by step)
 
-## ---
+# Explanation with Text
 
 - 1- Search in the SearchBox "Mouse Setting"
 
@@ -25,7 +25,7 @@
 - 6- Select the cursor that matches the Settings
 
 
-## ---
+# Explanation with Video
 
 
 
