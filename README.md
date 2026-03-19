@@ -1,4 +1,4 @@
-# windows cursor changing file- that change Windows Default Pointers with Custom Pointers
+# Windows Cursors - That Change Windows Default Pointers with Custom Pointers
 
 
 
@@ -7,34 +7,34 @@
 
 -------------------------------------------------------------------------------------------------------
 
-- 1- Search in the SearchBox Mouse Setting
+- 1- Search in the SearchBox "Mouse Setting"
 
 
-- 2- Keep Scroling Until You See Additional mouse setting, Option and Click it
+- 2- Scroll down Until You See "Additional mouse setting", and Click it
 
 
-- 3- Go to Pointers Option From UpperPage
+- 3- Go to "Pointers" tab at the top
 
 
-- 4- Go to Customize Page and select any pointer example Normal Select and select Browse option
+- 4- In the Customize section select a pointer (e.g., Normal Select), then click "Browse"
 
 
-- 5- Go to Desktop optionp and Select WhenEver you Downloaded the file in example in Documents
+- 5- Navigate to the folder where you downloaded the file
 
 
-- 6- Select the cursor that match the Setting
+- 6- Select the cursor that matches the Settings
 
 
 -------------------------------------------------------------------------------------------------------
 
 
 
-YouTube Video for more Explain and usage --> https://youtu.be/wA1SV4-_4wc?si=COcKI2bhXejIBxkO
+YouTube Video for more Explanation and usage --> https://youtu.be/wA1SV4-_4wc?si=COcKI2bhXejIBxkO
 
 
 
 ---------------------------------------------------------------------------------------------------------
-## Explain By Photos
+## Explanation with images
 
 ![image alt](https://github.com/cusqm/Scheme/blob/f43d90c1f609b656cd7a7e37fa739cbaf0a1f985/Pointers.png)
 
